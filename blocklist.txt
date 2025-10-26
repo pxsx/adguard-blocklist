@@ -7936,3 +7936,4 @@
 ||*.trksexhub.com^
 ||*.datingfunnel.net^
 ||*.adultfunnels.com^
+||*.xloves.com^
