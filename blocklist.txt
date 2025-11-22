@@ -39038,3 +39038,6 @@
 ||adultfunnels.com^$dnstype=AAAA,dnsttl=5,dnsrewrite=NOERROR;AAAA;::15550
 ||*.adultfunnels.com^$dnstype=A,dnsttl=5,dnsrewrite=NOERROR;A;127.0.0.15551
 ||*.adultfunnels.com^$dnstype=AAAA,dnsttl=5,dnsrewrite=NOERROR;AAAA;::15551
+||partnersuche.dating
+||*.partnersuche.dating
+
